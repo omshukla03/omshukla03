@@ -4,10 +4,10 @@
 I'm a **B.Sc. Computer Science** student with a passion for **Software Development,and IoT**. Currently, I'm exploring **Java, Python, and AI**, while also working on exciting **Java , IOT , and Java development projects**.
 
 ## 💻 Tech Stack
-- **Languages:** Java, Python, JavaScript,
-- **Web Development:** HTML, CSS,     
+- **Languages:** Java, Python, JavaScript
+- **Web Development:** HTML, CSS   
 - **Database:**  MySQL  
-- **Tools & Platforms:** Git & GitHub, VS Code 
+- **Tools & Platforms:** Git & GitHub, VS Code , Net Beans
 - **IoT & Embedded Systems:** ESP8266, Arduino IDE  
 
 ## 🔥 Current Projects

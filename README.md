@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Om Shukla</h1>
 <h3 align="center">💻 B.Sc. CS Student | ☕ Java Dev | 🌐 IoT Enthusiast</h3>
 
-<img align="right" alt="Coding" width="500" src="https://i.ibb.co/sdHc43sf/Coding-Pixel-Jeff.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW14ZGNnN3psazBrN3QyaTJhZG0xMWp6N2pkYmRqYzFid243Yjk0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif">
 
 - 🔭 I’m currently working on **Java Full-Stack Projects**
 
